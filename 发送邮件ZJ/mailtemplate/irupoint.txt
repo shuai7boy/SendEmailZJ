@@ -1,0 +1,6 @@
+﻿
+<div style="background-color:pink;font-size:25px;">
+hi [$ename]：<br/>
+ &nbsp;&nbsp;&nbsp;&nbsp;您收到的是来自[$from]的邮件。 您还好么？<br/>
+ &nbsp;	详情:<a href='[$link]' target="_blacnk">点击</a>
+</div>
